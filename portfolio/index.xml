@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on Virtual Bulletin Board</title>
+    <link>https://RABulletin.github.io/portfolio/</link>
+    <description>Recent content in Portfolios on Virtual Bulletin Board</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Nov 2016 19:56:17 +0530</lastBuildDate>
+    
+	<atom:link href="https://RABulletin.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Self Understanding &amp; Integrity</title>
+      <link>https://RABulletin.github.io/portfolio/work2/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://RABulletin.github.io/portfolio/work2/</guid>
+      <description>&lt;p&gt;Virginia Tech students will form a set of affirmative values and develop the self-understanding to integrate these values into their decision-making.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ut Prosim</title>
+      <link>https://RABulletin.github.io/portfolio/work3/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      
+      <guid>https://RABulletin.github.io/portfolio/work3/</guid>
+      <description>&lt;p&gt;Virginia Tech students will enrich their lives through service to others.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Curiosity</title>
+      <link>https://RABulletin.github.io/portfolio/work4/</link>
+      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
+      
+      <guid>https://RABulletin.github.io/portfolio/work4/</guid>
+      <description>&lt;p&gt;Virginia Tech students will be inspired to lead lives of curiosity, embracing a life-long commitment to intellectual development.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Civility</title>
+      <link>https://RABulletin.github.io/portfolio/work5/</link>
+      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
+      
+      <guid>https://RABulletin.github.io/portfolio/work5/</guid>
+      <description>&lt;p&gt;Virginia Tech students will understand and commit to civility as a way of life in their interactions with others.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Courageous Leadership</title>
+      <link>https://RABulletin.github.io/portfolio/work6/</link>
+      <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
+      
+      <guid>https://RABulletin.github.io/portfolio/work6/</guid>
+      <description>&lt;p&gt;Virginia Tech students will be courageous leaders who serve as change agents and make the world more humane and just.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
